@@ -2,6 +2,10 @@
     "name": "paytm/checksum",
     "description": "This package is used to create checksum for paytm payment",
     "type": "library",
+    "keywords": [
+        "paytmChecksum",
+        "laravel"
+    ],
     "require": {
         "php": "^7.1.3"
     },
