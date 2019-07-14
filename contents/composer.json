@@ -1,0 +1,19 @@
+{
+    "name": "paytm/checksum",
+    "description": "This package is used to create checksum for paytm payment",
+    "type": "library",
+    "require": {
+        "php": "^7.1.3"
+    },
+    "require-dev": {
+        "laravel/laravel": "5.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "programmerlab",
+            "email": "kroy.iips@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
