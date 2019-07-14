@@ -1,5 +1,5 @@
 {
-    "name": "paytm/checksum1",
+    "name": "paytm1/checksum1",
     "description": "This package is used to create checksum for paytm payment",
     "type": "library",
     "keywords": [
