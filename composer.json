@@ -9,9 +9,7 @@
            "php": ">=5.6.0",
             "ext-json": "*",
             "ext-curl": "*",
-            "ext-openssl": "*",
-            "netresearch/jsonmapper": "^1.4",
-            "monolog/monolog": "^1.24"
+            "ext-openssl": "*"
     },
     "license": "MIT",
     "authors": [
@@ -20,7 +18,7 @@
             "email": "kroy.iips@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
     "psr-4": {
         "paytmChecksum\\": "paytm/checksum/src/"
